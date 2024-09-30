@@ -1,4 +1,4 @@
-# Study_data-structures-_With_Me
+# Study_data-structures_With_Me
 
 ## week-1 From 30/9 -> 6/10 
 - learn to video 24 
